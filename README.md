@@ -11,8 +11,6 @@ Ce dépôt contient un projet complet de développement d'une application de ges
 - [Configuration de la base de données](#configuration-de-la-base-de-données)
 - [Utilisation](#utilisation)
 - [Captures d'écran](#captures-décran)
-- [Contribuer](#contribuer)
-- [Licence](#licence)
 
 ## Présentation
 

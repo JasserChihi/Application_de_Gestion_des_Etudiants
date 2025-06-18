@@ -4,9 +4,9 @@ import java.sql.SQLException;
 
 public class TestDatabaseConnection {
     public static void main(String[] args) {
-        String URL = "jdbc:postgresql://localhost:5432/Formation";
-        String USER = "postgres";
-        String PASSWORD = "jasser";
+        String URL = "jdbc:postgresql://localhost:0000/Formation";
+        String USER = "xxxx";
+        String PASSWORD = "xxxx";
 
         try {
             Class.forName("org.postgresql.Driver");

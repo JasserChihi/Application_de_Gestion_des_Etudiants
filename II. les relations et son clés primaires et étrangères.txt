@@ -1,0 +1,19 @@
+Etudiant
+	Clé primaire : IdEtd
+	Attributs : Nom, Prenom, Adresse, Section
+Cours
+	Clé primaire : codeCours
+	Attributs : nomCours, numSalle, coef
+Professeur
+	Clé primaire : idProf
+	Attributs : Nom, Prenom, idDep
+Inscription
+	Clés primaires : (idEtd, codeCours) 
+	Clés étrangères :
+		"idEtd fait" référence à Etudiant(IdEtd)
+		"codeCours" fait référence à Cours(codeCours)
+Enseignement
+	Clés primaires : (idProf, codeCours) 
+	Clés étrangères :
+		"idProf" fait référence à Professeur(idProf)
+		"codeCours" fait référence à Cours(codeCours)

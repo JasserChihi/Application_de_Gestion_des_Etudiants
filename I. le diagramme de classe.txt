@@ -1,0 +1,24 @@
+			+------------------+       +--------------------+       +-----------------+
+			|     Etudiant     |       |        Cours       |       |    Professeur   |
+			+------------------+       +--------------------+       +-----------------+
+			| - idEtd: String  |<----->| - codeCours: String|<----->| - idProf: String|
+			| - nom: String    |N     N| - nomCours: String |N     1| - nom: String   |
+			| - prenom: String |       | - numSalle: String |       | - prenom: String|
+			| - adresse: String|       | - coef: Numeric    |       | - idDep: String |
+			| - section: String|       +--------------------+       +-----------------+
+			+------------------+           ^1         1^                    ^1
+			      1^                       |           |                    |
+			       |                       |           |                    |
+			       +-----------------------+           +--------------------+
+			              |                                     |
+			             N|N                                   N|N
+			   +--------------------+               +--------------------+
+ 			   |   Inscription      |               |      Enseignement  |
+ 			   +--------------------+               +--------------------+
+ 			   | - idEtd: String    |               | - idProf: String   |
+			   | - codeCours: String|               | - codeCours: String|
+			   +--------------------+               +--------------------+
+ 
+                                        
+
+

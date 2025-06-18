@@ -11,6 +11,7 @@ Ce dépôt contient un projet complet de développement d'une application de ges
 - [Configuration de la base de données](#configuration-de-la-base-de-données)
 - [Utilisation](#utilisation)
 - [Captures d'écran](#captures-décran)
+- [Démo vidéo](#démo-vidéo)
 
 ## Présentation
 
@@ -66,6 +67,11 @@ L’application permet de gérer efficacement les informations des étudiants d�
    ```
 2. Connectez-vous avec vos identifiants.
 3. Commencez à gérer les étudiants.
+
+
+## Démo vidéo
+
+[![Voir la démo](https://img.youtube.com/vi/C5h8SYah020/0.jpg)](https://www.youtube.com/watch?v=C5h8SYah020)
 
 ## Captures d'écran
 

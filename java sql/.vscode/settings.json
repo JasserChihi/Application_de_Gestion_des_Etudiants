@@ -14,12 +14,12 @@
         {
             "previewLimit": 50,
             "server": "localhost",
-            "port": 5432,
+            "port": 0000,
             "driver": "PostgreSQL",
             "name": "PostgreSQL 17",
             "database": "Formation",
-            "username": "postgres",
-            "password": "jasser",
+            "username": "xxxx",
+            "password": "xxxx",
             "connectionTimeout": 100
         }
     ]

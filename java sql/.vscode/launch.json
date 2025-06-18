@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TestDatabaseConnection",
+            "request": "launch",
+            "mainClass": "TestDatabaseConnection",
+            "projectName": "java sql_598b84f2",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-23.0.1/lib\" --add-modules javafx.controls,javafx.fxml -cp \"C:/Users/user/Desktop/BUREAU/3/lmi2 25/s1/projet java/Projet Java Jasser Chihi et Mahmoud Moalla LMI2/java sql/lib/postgresql-42.7.4.jar\""
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-23.0.1/lib\" --add-modules javafx.controls,javafx.fxml -cp \"C:/Users/user/Desktop/BUREAU/3/lmi2 25/s1/projet java/Projet Java Jasser Chihi et Mahmoud Moalla LMI2/java sql/lib/postgresql-42.7.4.jar\""
+        }
+    ]
+}
